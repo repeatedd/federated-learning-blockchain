@@ -1,0 +1,9 @@
+Model: "Linear Regression Model"
+Error with 1 agent
+    client1 error(RMSE): 0.52 (half data)
+    server error (RMSE): 0.6181 (full data)
+
+Error with 2 agents
+    client1 error(RMSE): 0.52 (half data)
+    client2 error(RMSE): 0.53 (other half)
+    server error(RMSE): 0.6151 (full data)

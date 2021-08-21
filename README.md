@@ -1,4 +1,4 @@
-# Federated Learning with Blockain
+# Federated Learning with Blockchain
 A simple application that uses Blockchain to demonstrate federated learning.
 
 ## What is Federated Learning?
